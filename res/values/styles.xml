@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="RepperTitleBackgroundStyle">
+		<item name="android:background">@drawable/title_bar</item>
+		<item name="android:paddingLeft">15dp</item>
+	</style>
+
+  	<style name="RepperStyle">
+    	<item name="android:textSize">20dip</item>
+    	<item name="android:windowTitleSize">40dip</item>
+    	<item name="android:windowTitleBackgroundStyle">@style/RepperTitleBackgroundStyle</item>
+  	</style>
+</resources>
